@@ -15,6 +15,17 @@ geometry 구현 방식은 여러가지가 있다고한다.
 
 x, y, z 보는 방향을 화면에 보여준다.
 
+## Unit System
+
+length ar unitless the unit are abstruct
+
+threejs의 크기는 px인가 뭔가..?
+
+## THREE.MeshBasicMaterial
+
+## HREE.SphereGeometry
+
+
 
 ---
 참고
